@@ -8,6 +8,7 @@ This repository contains all my configurations for my setup, including WezTerm, 
 
 ### 1. **WezTerm**
 WezTerm is my terminal emulator of choice. My configuration includes custom keybindings, color schemes, font settings, and more.
+WezTerm is also set to load up debian or the default wsl in my config, you can make it show powershell by changing it in your config.
 
 #### Key Features:
 - Font: `Iosevka NF`
