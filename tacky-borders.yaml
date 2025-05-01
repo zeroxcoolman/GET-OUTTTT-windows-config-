@@ -59,9 +59,9 @@ global:
     floating_color: "#f5f5a5"
     enabled: False
 
-  # animations: Configure animation behavior for window borders
+  # animations: 
   #   fps: Animation frame rate
-  #   active: Animations for active windows
+  #    active: Animations for active windows
   #   inactive: Animations for inactive windows
   #
   # Supported animation types:
@@ -99,8 +99,8 @@ global:
         duration: 200
         easing: EaseInOutQuad
 
-    fps: 60
-    enabled: False
+    fps: 120
+    enabled: True
 
   # initialize_delay: Time (in ms) before the border appears after opening a new window
   # unminimize_delay: Time (in ms) before the border appears after unminimizing a window
