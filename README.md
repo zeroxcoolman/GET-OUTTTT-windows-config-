@@ -73,3 +73,5 @@ Flow Launcher is my application launcher of choice. It provides quick access to 
 Go to the github then to the relases to find tacky-borders.exe then put the config in C:\Users\username\.config\tacky-borders\config.yaml
 
 ---
+`you found the secret !!!!!`
+#### LING GANG GULI GULI WA TAA LING GANG GUUU LING GANG GUU
